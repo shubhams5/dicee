@@ -11,6 +11,7 @@
 
 body {
   background-color: #393E46;
+  text-align: center;
 }
 
 h1 {
@@ -36,6 +37,10 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+}
+
+.btn {
+  padding: 50px 0 0;
 }
 
 .button {
